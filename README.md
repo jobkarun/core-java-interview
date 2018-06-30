@@ -1,4 +1,4 @@
-# Core - java - interview
+                                       Core - java - interview
 
 ![img](https://github.com/springkarun/core-java-interview/blob/master/assets/kk.png)
 
@@ -151,7 +151,7 @@ Give an example
 * Exception Handling with Method Overriding
 * Custom Exception
 
-# Multithreading
+## Multithreading
 * Multithreading : What and Why?
 * Life Cycle of a Thread
 * Creating Thread
@@ -175,3 +175,4 @@ Give an example
 * Deadlock
 * Inter - thread Communication
 * Interrupting Thread
+
